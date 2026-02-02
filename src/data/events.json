@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ad2",
+    "audience": "adults",
+    "title": "Adults-only: Night Wildlife Photography Walk",
+    "date": "Wednesday 19:00",
+    "desc": "A guided evening walk focusing on respectful wildlife photography and low-impact observation."
+  },
+  {
+    "id": "ad3",
+    "audience": "adults",
+    "title": "Adults-only: Conservation Q&A with Rangers",
+    "date": "Thursday 18:00",
+    "desc": "Ask our team about local species, rehabilitation, and practical conservation actions."
+  },
+
+  {
+    "id": "fa2",
+    "audience": "families",
+    "title": "Family Mini Safari (British Animals)",
+    "date": "Saturday 13:30",
+    "desc": "A short family-friendly tour with animal facts, habitat tips, and a fun quiz at the end."
+  },
+  {
+    "id": "fa3",
+    "audience": "families",
+    "title": "Family Conservation Challenge",
+    "date": "Sunday 10:30",
+    "desc": "Interactive stations teaching simple changes families can make to protect wildlife."
+  },
+
+  {
+    "id": "ch2",
+    "audience": "children",
+    "title": "Kids: Build a Wildlife-Friendly Garden",
+    "date": "Saturday 15:00",
+    "desc": "Hands-on learning: safe shelters, water spots, and what animals need to thrive."
+  },
+  {
+    "id": "ch3",
+    "audience": "children",
+    "title": "Kids: Junior Ranger Quiz & Badge",
+    "date": "Sunday 12:00",
+    "desc": "Answer quick questions about British animals and earn a Junior Ranger badge."
+  }
+]

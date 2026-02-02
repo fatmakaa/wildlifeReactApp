@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+/* Custom theme */
+@theme {
+  --color-brand: #166534;
+  --radius-card: 1rem;
+}
+
+/* Base styles */
+@layer base {
+  body {
+    @apply bg-white text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100;
+  }
+}
+
+/* Components */
+@layer components {
+  .card {
+    border-radius: var(--radius-card);
+    @apply bg-white dark:bg-zinc-900 p-4 shadow;
+  }
+}
